@@ -7,3 +7,6 @@ Y = 25
 X = "Hello World"
 print(Y)
 print(X)
+
+#This is just a practice
+print("Hello World")
