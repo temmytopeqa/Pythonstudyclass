@@ -17,3 +17,10 @@ Z = 10
 print(type(X))
 print(type(Y))
 print(type(Z))
+x = "Hello World"
+
+#display x:
+print(x)
+
+#display the data type of x:
+print(type(x))
