@@ -10,3 +10,10 @@ print(X)
 
 #This is just a practice
 print("Hello World")
+
+X = 5
+Y = 6
+Z = 10
+print(type(X))
+print(type(Y))
+print(type(Z))
