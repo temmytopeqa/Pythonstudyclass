@@ -95,4 +95,6 @@ txt = f"The price is {price:.2f} dollars"
 print(txt)
 
 txt = f"The price is {20 * 59} dollars"
-print(txt)
+
+
+txt = "We are the so-called "Vikings" from the north."
