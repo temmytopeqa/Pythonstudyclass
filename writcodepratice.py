@@ -88,3 +88,7 @@ print('Hello')
 print("it is weekend i have to finish two to three courses today before the children comes home")
 print("i have to finish sealing our amaease tea, but i have packed and sold 30 tea packs of Anti-malaria tea so far that is a good one")
 print('i have sold 25 calm tea so far this week and my waiting for reviews from our customers')
+
+print("It's alright")
+print("He is called 'Johnny'")
+print('He is called "Johnny"')
