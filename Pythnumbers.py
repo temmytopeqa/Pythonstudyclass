@@ -110,3 +110,15 @@ print(txt)
 
 txt = "Hello\ntolu\nWorld!"
 print(txt)
+
+txt = "Hello\rWorld!"
+print(txt)
+
+txt = "Hello\tWorld!"
+print(txt)
+
+#This example erases one character (backspace):
+txt = "Hello \bWorld!"
+print(txt)
+
+
