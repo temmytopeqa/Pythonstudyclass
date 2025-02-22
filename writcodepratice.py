@@ -107,3 +107,6 @@ consectetur adipiscing elit,
 sed do eiusmod tempor incididunt
 ut labore et dolore magna aliqua.'''
 print(a)
+
+b = 'Hello, world!'
+print(b[2:5])
