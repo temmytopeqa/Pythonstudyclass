@@ -109,4 +109,7 @@ ut labore et dolore magna aliqua.'''
 print(a)
 
 b = 'Hello, world!'
-print(b[2:3])
+print(b[5])
+
+b = "Hello, World!"
+print(b[:5])
