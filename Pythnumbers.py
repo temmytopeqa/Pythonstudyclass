@@ -349,5 +349,18 @@ y = "eJo"
 z = "odnght"
 print(str.maketrans(x, y, z))
 
+txt = "I could eat bananas all day"
+
+x = txt.partition("bananas")
+
+txt = "I could eat bananas all day"
+
+x = txt.partition("apples")
+
+print(x)
+
+
+
+
 
 
