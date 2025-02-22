@@ -48,3 +48,10 @@ print(x)
 
 #display the data type of x:
 print(type(x))
+
+x = int(1)
+y = int(2.8)
+z = int("3")
+print(x)
+print(y)
+print(z)
