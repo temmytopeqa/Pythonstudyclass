@@ -98,3 +98,6 @@ txt = f"The price is {20 * 59} dollars"
 
 
 txt = "We are the so-called "Vikings" from the north."
+
+txt = "We are the so-called \"Vikings\" from the north."
+
