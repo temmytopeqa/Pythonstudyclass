@@ -80,3 +80,11 @@ z = str(3.0)
 print(x)
 print(y)
 print(z)
+
+#You can use double or single quotes:
+
+print("Hello")
+print('Hello')
+print("it is weekend i have to finish two to three courses today before the children comes home")
+print("i have to finish sealing our amaease tea, but i have packed and sold 30 tea packs of Anti-malaria tea so far that is a good one")
+print('i have sold 25 calm tea so far this week and my waiting for reviews from our customers')
