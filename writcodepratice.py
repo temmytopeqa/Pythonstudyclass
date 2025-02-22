@@ -72,3 +72,11 @@ print(x)
 print(y)
 print(z)
 print(w)
+
+
+x = str("s1")
+y = str("2e")
+z = str(3.0)
+print(x)
+print(y)
+print(z)
