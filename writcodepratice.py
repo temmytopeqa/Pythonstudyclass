@@ -134,3 +134,8 @@ print(a.replace("H", "J"))
 
 a = "Hello, World!"
 print(a.split(",")) # returns ['Hello', ' World!']
+
+a = "Hello"
+b = "World"
+c = a + b
+print(c)
