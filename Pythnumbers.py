@@ -108,3 +108,5 @@ print(txt)
 txt = "This will insert one \\ (backslash)."
 print(txt)
 
+txt = "Hello\ntolu\nWorld!"
+print(txt)
