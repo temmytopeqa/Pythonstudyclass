@@ -120,5 +120,9 @@ print(b[5:])
 b = "Hello, World!"
 print(b[-5:-2])
 
-b = "Hello, World!"
+b = "Hello World!"
 print(a.upper())
+
+b = "Hello World!"
+print(a.lower())
+
