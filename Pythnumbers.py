@@ -76,7 +76,7 @@ print(type(b))
 print(type(c))
 
 age = 36
-txt = "My name is John, I am " + age
+txt = "My name is John, I am "
 print(txt)
 
 
@@ -97,7 +97,11 @@ print(txt)
 txt = f"The price is {20 * 59} dollars"
 
 
-txt = "We are the so-called "Vikings" from the north."
+txt = "We are the so-called \"Vikings\" from the north."
 
 txt = "We are the so-called \"Vikings\" from the north."
+
+
+txt = 'It\'s alright.'
+print(txt)
 
